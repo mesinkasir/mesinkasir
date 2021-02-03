@@ -5,4 +5,4 @@
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesinkasir&layout=compact)](https://github.com/mesinkasir/github-readme-stats)
 
-![yeahh](https://mesinkasironline.web.app/img/gatsby%20warior.png)
+![Github lovers](https://1.bp.blogspot.com/-mSobvbxB8LY/YBr4RRR_hwI/AAAAAAAAMsQ/9IodEKYlHaUthPq0n_i8NZJpAAd7LXtKACLcBGAsYHQ/s960/12042681_10205005324793768_1811671595756355728_n.jpg)
