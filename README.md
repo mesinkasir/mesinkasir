@@ -6,7 +6,7 @@
 
 ### 💖 Thanks for Sponsor 🤞
 
-[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)  <a href="https://www.hockeycomputindo.com/themes/"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" width="180" height="180"/></a>
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)  <a href="https://www.hockeycomputindo.com/themes/"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" width="200" height="200"/></a>
 
 ----------------------------------------
 
