@@ -6,10 +6,10 @@
 
 ### 💖 Thanks for Sponsor 🤞
 
-[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)  <a href="https://www.hockeycomputindo.com/themes/"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" width="220" height="220"/></a>
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)  <a href="https://www.hockeycomputindo.com/themes/"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" width="180" height="180"/></a>
 
 ----------------------------------------
 
 ### 🥇 Supporter 👨🏻‍🚀
 
-[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett) <a href="https://github.com/creativebydre"><img src="https://avatars.githubusercontent.com/u/70264436?v=4" width="120" height="120"/></a>
+[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett) <a href="https://github.com/creativebydre"><img src="https://avatars.githubusercontent.com/u/70264436?v=4" width="80" height="80"/></a>
