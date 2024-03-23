@@ -10,7 +10,7 @@
 
 ----------------------------------------
 
-### [☕ Become a Sponsor](https://github.com/sponsors/mesinkasir)
+### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
 
 ----------------------------------------
 
