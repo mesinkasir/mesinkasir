@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-![Github lovers](https://1.bp.blogspot.com/-yRIXNL0HaeQ/YBr2nPctEJI/AAAAAAAAMsA/9AEccldHZkU_UjW5owQbRUKDDuL5-ni7ACLcBGAsYHQ/s960/11130160_10203968824241902_1704446697852246306_n%2B-%2BCopy.jpg)
-
-<!--
-**mesinkasir/mesinkasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
 
+----------------------------------------
 
+### 💖 Thanks for Sponsor 🤞
 
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/) [![https://www.hockeycomputindo.com/themes/](https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg)]([https://www.adamdjbrett.com/](https://www.hockeycomputindo.com/themes/))
 
-![github ganksta](https://1.bp.blogspot.com/-iXseOdV9EWY/YBr6AFz19zI/AAAAAAAAMsY/QRLB2G7Sc9cFFmcytloY5D1DND8vTmhcQCLcBGAsYHQ/s960/13406805_10206589188349367_938707191884813742_n.jpg)
+----------------------------------------
 
+### 🥇 Supporter 👨🏻‍🚀
 
-
+[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett) [![https://github.com/creativebydre](https://avatars.githubusercontent.com/u/70264436?v=4)](https://github.com/creativebydre)
