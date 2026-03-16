@@ -111,16 +111,6 @@ Clients retain full ownership of their infrastructure, while Axcora provides the
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesinkasir&layout=compact&theme=midnight-purple)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
-
----
-
 ## System Status
 
 NODE : ACTIVE  
