@@ -1,21 +1,137 @@
-# [Souce Code Project](https://www.hockeycomputindo.com/themes)
+# AXCORA // ZETTA CORE NODE
 
-### Hi there 👋
+Systems Architect • Digital Infrastructure • JAMstack Engineering
+
+Architecting high-performance digital ecosystems powered by **Zetta Core logic**.
+
+---
+
+## Origin
+
+Axcora is an engineering-driven ecosystem focused on building fast, secure, and scalable digital systems using modern web architecture and automation.
+
+---
+
+## GitHub Analytics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
 
-----------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesinkasir&layout=compact&theme=midnight-purple)
 
-### 💖 Thanks for Sponsor
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mesinkasir&theme=github-dark)
 
-<a href="https://www.adamdjbrett.com/" target="_blank"><img src="https://www.adamdjbrett.com/assets/img/logo.png" alt="adamdjbrett" width="200" height="200"/></a> <img src="https://avatars.githubusercontent.com/u/136876765?v=4" alt="grandlimousine 1" width="200" height="200"/> <a href="https://www.hockeycomputindo.com/themes/" target="_blank"><img src="https://www.hockeycomputindo.com/img/hockeycompcarwebsite.jpg" alt="hockeycorp" width="200" height="200"/></a> <a href="https://www.axcora.com/" target="_blank"><img src="https://raw.githubusercontent.com/mesinkasir/larapos/gh-pages/axcoralogowhite.webp" alt="creativitas" width="200" height="200"/></a> <a href="https://fiverr.com/creativitas/" target="_blank"><img src="https://creativitas.github.io//assets/img/creativitaswebdev.webp" alt="creativitas" width="200" height="200"/></a>
+---
 
-----------------------------------------
+## Ecosystem Platforms
 
-### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)
+Core platform
 
-----------------------------------------
+https://www.axcora.com
 
-### 🥇 Supporter 👨🏻‍🚀
+Research and experimentation lab
 
-<a href="https://github.com/adamdjbrett"><img src="https://avatars.githubusercontent.com/u/22662978?v=4" alt="Adam DJ Brett" width="80" height="80"/></a> <a href="https://github.com/grandlimo/"><img src="https://avatars.githubusercontent.com/u/136876765?v=4" width="80" height="80" alt="grandlimousine"/></a> <a href="https://github.com/Dustcloudman"><img alt="Dustcloudman" src="https://avatars.githubusercontent.com/u/103728037?v=4" width="80" height="80"/></a> <a href="https://github.com/creativebydre"><img alt="creativebydre" src="https://avatars.githubusercontent.com/u/70264436?v=4" width="80" height="80"/></a> <a href="https://github.com/creativitas"><img alt="creativitas" src="https://avatars.githubusercontent.com/u/112189857?v=4" width="80" height="80"/></a>
+https://www.axcora.my.id
+
+Solutions and development services
+
+https://creativitas.dev
+
+Themes and web resources
+
+https://www.hockeycomputindo.com/themes
+
+---
+
+## Professional Marketplace
+
+Selected services are also available through freelance marketplaces.
+
+Fiverr  
+https://fiverr.com/creativitas
+
+However, most projects are handled directly through the Axcora ecosystem platforms.
+
+---
+
+## Engineering Domains
+
+**Architecture Focus**
+
+- JAMstack infrastructure
+- Static site generator ecosystems
+- automation-driven workflows
+- AI integration pipelines
+- CLI development environments
+
+**Technology Stack**
+
+Eleventy • Jekyll • Hugo • Astro  
+Laravel • Symfony • Python  
+Headless CMS • Flat-file CMS  
+Markdown • JSON • YAML
+
+---
+
+## Core Projects
+
+Independent systems developed within the Axcora ecosystem.
+
+**Onta SSG**  
+https://onta.axcora.com  
+Lightweight static site generator designed for speed and simplicity.
+
+**AX SSG Engine**  
+https://ax.axcora.com  
+Experimental JAMstack engine for modern static web architecture.
+
+**SSG Framework**  
+https://ssg.axcora.com  
+Research platform for static site generator architecture.
+
+**Markdownuts**  
+https://markdownuts.axcora.com  
+Markdown based utilities for content driven development.
+
+**Larapos POS**  
+https://github.com/mesinkasir/larapos
+Point of Sale system built with modern web architecture.
+
+---
+
+## System Philosophy
+
+Minimal overhead architecture.
+
+No unnecessary complexity.  
+No heavy infrastructure.
+
+Focused on **speed, stability, and maintainability**.
+
+Clients retain full ownership of their infrastructure, while Axcora provides the engineering architecture.
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesinkasir&layout=compact&theme=midnight-purple)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
+
+---
+
+## System Status
+
+NODE : ACTIVE  
+MODE : ENGINEERING DIGITAL ECOSYSTEMS
+
+---
+
+## Support the Node
+
+🚀 Become a Sponsor  
+https://github.com/sponsors/mesinkasir
+
+☕ Buy Me a Coffee  
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN
