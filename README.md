@@ -16,7 +16,9 @@ Axcora is an engineering-driven ecosystem focused on building fast, secure, and 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesinkasir&layout=compact&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com?user=mesinkasir&theme=midnight-purple)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mesinkasir&theme=github_dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mesinkasir&theme=github-dark)
 
