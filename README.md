@@ -78,10 +78,6 @@ Markdown • JSON • YAML
 
 Independent systems developed within the Axcora ecosystem.
 
-**Onta SSG**  
-https://onta.axcora.com  
-Lightweight static site generator designed for speed and simplicity.
-
 **AX SSG Engine**  
 https://ax.axcora.com  
 Experimental JAMstack engine for modern static web architecture.
@@ -90,13 +86,45 @@ Experimental JAMstack engine for modern static web architecture.
 https://ssg.axcora.com  
 Research platform for static site generator architecture.
 
+**GAX GO SSG**  
+https://gax.axcora.com  
+Go by AXcora for static site generator architecture.
+
+**DAX BASH SSG**  
+https://dax.axcora.com  
+.NET dotnet by AXcora for static site generator architecture.
+
+**CAX BASH SSG**  
+https://cax.axcora.com
+Pure C by AXcora for static site generator architecture.
+
+**PYCORA PYTHON SSG**  
+https://pycora.axcora.com  
+PYthon axCORA for static site generator architecture.
+
+**LUAX LUA SSG**  
+https://luax.axcora.com  
+LUa by AXcora for static site generator architecture.
+
+**BAX BASH SSG**  
+https://bax.axcora.com  
+Bash by AXcora for static site generator architecture.
+
 **Markdownuts**  
 https://markdownuts.axcora.com  
 Markdown based utilities for content driven development.
 
+**Onta SSG**  
+https://onta.axcora.com  
+Lightweight static site generator designed for speed and simplicity.
+
 **Larapos POS**  
 https://github.com/mesinkasir/larapos
 Point of Sale system built with modern web architecture.
+
+**Axcora Media Forge**  
+https://github.com/mesinkasir/axcora-media-forge
+Compress images to WebP and videos to MP4 automatically while preserving your folder structure. Optimized to boost Lighthouse scores — smaller files, faster loading.
 
 ---
 
