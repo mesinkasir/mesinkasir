@@ -82,7 +82,7 @@ Independent systems developed within the Axcora ecosystem.
 https://ax.axcora.com  
 Experimental JAMstack engine for modern static web architecture.
 
-**SSG Framework**  
+**ALL IN ONE SSG Framework**  
 https://ssg.axcora.com  
 Research platform for static site generator architecture.
 
@@ -90,13 +90,13 @@ Research platform for static site generator architecture.
 https://gax.axcora.com  
 Go by AXcora for static site generator architecture.
 
-**DAX BASH SSG**  
+**DAX DOTNET .NET SSG**  
 https://dax.axcora.com  
-.NET dotnet by AXcora for static site generator architecture.
+Dotnet by AXcora for static site generator architecture.
 
-**CAX BASH SSG**  
+**CAX PURE C SSG**  
 https://cax.axcora.com
-Pure C by AXcora for static site generator architecture.
+C by AXcora for static site generator architecture.
 
 **PYCORA PYTHON SSG**  
 https://pycora.axcora.com  
