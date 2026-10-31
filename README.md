@@ -1,6 +1,6 @@
-# AXCORA // ZETTA CORE NODE
+# Axcora
 
-Systems Architect • Digital Infrastructure • JAMstack Engineering
+Systems Architect • Digital Infrastructure • JAMstack Engineering | ZETTA CORE ENGINE
 
 Architecting high-performance digital ecosystems powered by **Zetta Core logic**.
 
@@ -26,32 +26,25 @@ Axcora is an engineering-driven ecosystem focused on building fast, secure, and 
 
 ## Ecosystem Platforms
 
-Core platform
-
+**Core platform**
 https://www.axcora.com
 
-Research and experimentation lab
-
+**Research and experimentation lab**
 https://www.axcora.my.id
 
-Solutions and development services
-
-https://creativitas.dev
-
-Themes and web resources
-
+**Themes and web resources**
 https://www.hockeycomputindo.com/themes
 
 ---
 
 ## Professional Marketplace
 
-Selected services are also available through freelance marketplaces.
+Selected services are available through freelance marketplaces.
 
-Fiverr  
+**Fiverr**
 https://fiverr.com/creativitas
 
-However, most projects are handled directly through the Axcora ecosystem platforms.
+Most projects are handled directly through the Axcora ecosystem platforms.
 
 ---
 
@@ -61,15 +54,15 @@ However, most projects are handled directly through the Axcora ecosystem platfor
 
 - JAMstack infrastructure
 - Static site generator ecosystems
-- automation-driven workflows
+- Automation-driven workflows
 - AI integration pipelines
 - CLI development environments
 
 **Technology Stack**
 
-Eleventy • Jekyll • Hugo • Astro  
-Laravel • Symfony • Python  
-Headless CMS • Flat-file CMS  
+Eleventy • Jekyll • Hugo • Astro
+Laravel • Symfony • Python
+Headless CMS • Flat-file CMS
 Markdown • JSON • YAML
 
 ---
@@ -78,53 +71,53 @@ Markdown • JSON • YAML
 
 Independent systems developed within the Axcora ecosystem.
 
-**AX SSG Engine**  
-https://ax.axcora.com  
+**AX SSG Engine**
+https://ax.axcora.com
 Experimental JAMstack engine for modern static web architecture.
 
-**ALL IN ONE SSG Framework**  
-https://ssg.axcora.com  
+**ALL IN ONE SSG Framework**
+https://ssg.axcora.com
 Research platform for static site generator architecture.
 
-**GAX GO SSG**  
-https://gax.axcora.com  
-Go by AXcora for static site generator architecture.
+**GAX GO SSG**
+https://gax.axcora.com
+Go by Axcora for static site generator architecture.
 
-**DAX DOTNET .NET SSG**  
-https://dax.axcora.com  
-Dotnet by AXcora for static site generator architecture.
+**DAX DOTNET .NET SSG**
+https://dax.axcora.com
+Dotnet by Axcora for static site generator architecture.
 
-**CAX PURE C SSG**  
+**CAX PURE C SSG**
 https://cax.axcora.com
-C by AXcora for static site generator architecture.
+C by Axcora for static site generator architecture.
 
-**PYCORA PYTHON SSG**  
-https://pycora.axcora.com  
-PYthon axCORA for static site generator architecture.
+**PYCORA PYTHON SSG**
+https://pycora.axcora.com
+Python by Axcora for static site generator architecture.
 
-**LUAX LUA SSG**  
-https://luax.axcora.com  
-LUa by AXcora for static site generator architecture.
+**LUAX LUA SSG**
+https://luax.axcora.com
+Lua by Axcora for static site generator architecture.
 
-**BAX BASH SSG**  
-https://bax.axcora.com  
-Bash by AXcora for static site generator architecture.
+**BAX BASH SSG**
+https://bax.axcora.com
+Bash by Axcora for static site generator architecture.
 
-**Markdownuts**  
-https://markdownuts.axcora.com  
-Markdown based utilities for content driven development.
+**Markdownuts**
+https://markdownuts.axcora.com
+Markdown-based utilities for content-driven development.
 
-**Onta SSG**  
-https://onta.axcora.com  
+**Onta SSG**
+https://onta.axcora.com
 Lightweight static site generator designed for speed and simplicity.
 
-**Larapos POS**  
+**Larapos POS**
 https://github.com/mesinkasir/larapos
 Point of Sale system built with modern web architecture.
 
-**Axcora Media Forge**  
+**Axcora Media Forge**
 https://github.com/mesinkasir/axcora-media-forge
-Compress images to WebP and videos to MP4 automatically while preserving your folder structure. Optimized to boost Lighthouse scores — smaller files, faster loading.
+Compress images to WebP and videos to MP4 automatically while preserving folder structure. Optimized for Lighthouse — smaller files, faster loading.
 
 ---
 
@@ -132,7 +125,7 @@ Compress images to WebP and videos to MP4 automatically while preserving your fo
 
 Minimal overhead architecture.
 
-No unnecessary complexity.  
+No unnecessary complexity.
 No heavy infrastructure.
 
 Focused on **speed, stability, and maintainability**.
@@ -143,15 +136,15 @@ Clients retain full ownership of their infrastructure, while Axcora provides the
 
 ## System Status
 
-NODE : ACTIVE  
+NODE : ACTIVE
 MODE : ENGINEERING DIGITAL ECOSYSTEMS
 
 ---
 
 ## Support the Node
 
-🚀 Become a Sponsor  
+**Sponsor**
 https://github.com/sponsors/mesinkasir
 
-☕ Buy Me a Coffee  
+**Buy Me a Coffee**
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN
